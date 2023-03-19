@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Refugee Higher Education - Virtual Cafe</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Refugee Higher Education - Virtual Cafe</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="forum.html">Forum</a></li>
+                    <li><a href="courses.html">Courses</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section>
+        <div class="container">
+            <h2>Virtual Cafe</h2>
+            <p>
+                The Virtual Cafe is a welcoming space where you can connect with other refugees, share your experiences, and make new friends. Join our virtual events, such as language practice sessions, cultural exchanges, and game nights. Together, we can build a supportive community.
+            </p>
+            <!-- Add virtual cafe events and activities here, e.g., event schedule, links to join events, etc. -->
+        </div>
+    </section>
+</body>
+</html>
